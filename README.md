@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,31 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# devlog-tracker
+DevLog Tracker – A full-stack productivity dashboard built with Next.js and Prisma to track learning logs, projects, resources, and project progress.
+# DevLog Tracker
+
+DevLog Tracker is a developer productivity dashboard that helps track learning logs, projects, and useful resources.
+
+## Features
+- Track learning logs
+- Manage projects with completed and pending status
+- Save useful resources
+- Dashboard with project progress
+- Calendar view
+- CRUD operations using API routes
+
+## Tech Stack
+- Next.js
+- TypeScript
+- Prisma ORM
+- SQLite
+- Tailwind CSS
+
+## Installation
+
+```bash
+npm install
+npm run dev
+>>>>>>> 88eb2852380a8cfa04a8432bd2da717827dd9895
